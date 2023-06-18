@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FarukKusakk
 - 👀 I’m interested in Unity
-- 🌱 I’m currently unity öğreniyorum
+- 🌱 I’m currently learn unity
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me = omerfarukkusak@outlook.com
 
